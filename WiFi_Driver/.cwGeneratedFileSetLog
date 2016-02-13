@@ -1,0 +1,13 @@
+Sources/main.c
+Includes/MK12D5.h
+Project_Settings/Startup_Code/system_MK12D5.c
+Includes/system_MK12D5.h
+Project_Settings/Startup_Code/startup_MK12D5.S
+Project_Settings/Linker_Files/MK12DX128xxx5_flash.ld
+Includes/core_cm0plus.h
+Includes/core_cm4.h
+Includes/core_cm4_simd.h
+Includes/core_cm7.h
+Includes/core_cmSimd.h
+Includes/core_cmFunc.h
+Includes/core_cmInstr.h
